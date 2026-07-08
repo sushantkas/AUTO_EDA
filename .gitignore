@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Conda environment files
+environment.yml
+
+# IDE/editor files
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Dataset cache or exported data
+*.sqlite
+*.db
+*.csv
+*.parquet
+
+# Generated files
+*.pytest_cache/
